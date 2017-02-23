@@ -1,1 +1,1 @@
-# finite-rpt-games
+# Finitely repeated games
